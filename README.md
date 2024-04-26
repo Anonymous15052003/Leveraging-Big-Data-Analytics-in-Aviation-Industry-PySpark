@@ -1,11 +1,6 @@
 
 ## 🚀 About Me
-I'm Ashutosh pursuing Masters in applied machine intelligence and as part of my Big Data course, I have utlized the big data analytics tool and performed an analysis on the metadata of the airline flights that occurred in the United States between the years 1987 and 2008. To begin, it is necessary for us to investigate the past of aviation in the United States. Before the 1920s, people in the United States first began traveling by airplane.
-
-
-
-## 🔗 Links
-[[Code]](https://github.com/Abhiashu10/BigData-PySpark-Project/blob/49314db3bcba3594ae8167ff4190250c1a26655e/bigdata.ipynb)
+I'm Sharon Chattopadhyay pursuing B. Tech in CSE and as part of my Big Data course, I have utlized the big data analytics tool and performed an analysis on the metadata of the airline flights that occurred in the United States between the years 1987 and 2008. To begin, it is necessary for us to investigate the past of aviation in the United States. Before the 1920s, people in the United States first began traveling by airplane.
 
 ## 🔗 Links
 [[Dataset Source]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7)
